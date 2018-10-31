@@ -1,0 +1,16 @@
+{
+  "name": "@jahia/vuejs-jsloader-2",
+  "version": "1.0.0",
+  "description": "DX module for vue js",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^1.0.1",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.5.17",
+    "lodash": "^4.17.11"
+  }
+}
