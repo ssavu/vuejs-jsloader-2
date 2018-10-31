@@ -13,7 +13,9 @@ let config = {
             "vue-router",
             "vue-style-loader",
             "vue-template-compiler",
-            "lodash"
+            "lodash",
+            "moment",
+            "rxjs"
         ]
     },
 
